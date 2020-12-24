@@ -1,12 +1,25 @@
 # Angular 10 File upload example
 
 For more detail, please visit:
-> [Angular 10 File upload example](https://bezkoder.com/angular-10-file-upload/)
+> [Angular 10 File upload example](https://www.bezkoder.com/angular-10-file-upload/)
 
 Rest APIs server for this Angular Client:
-> [Node.js Express File Upload Rest API example](https://bezkoder.com/node-js-express-file-upload/)
+> [Node Express File Upload Rest API example](https://www.bezkoder.com/node-js-express-file-upload/)
 
-> [Spring Boot Multipart File upload example](https://bezkoder.com/spring-boot-file-upload/)
+> [Node Express File Upload with Google Cloud Storage example](https://www.bezkoder.com/google-cloud-storage-nodejs-upload-file/)
+
+> [Node Express File Upload to MongoDB example](https://www.bezkoder.com/node-js-upload-store-images-mongodb/)
+
+> [Spring Boot Multipart File upload (to static folder) example](https://www.bezkoder.com/spring-boot-file-upload/)
+
+> [Spring Boot Multipart File upload (to database) example](https://www.bezkoder.com/spring-boot-upload-file-database/)
+
+More practice:
+> [Angular 10 Upload File to Firebase Storage example](https://www.bezkoder.com/firebase-storage-angular-10-file-upload/)
+
+> [Angular 10 JWT Authentication example with Web Api](https://www.bezkoder.com/angular-10-jwt-auth/)
+
+> [Angular 10 CRUD Application example with Web API](https://www.bezkoder.com/angular-10-crud-app/)
 
 ## Development server
 
